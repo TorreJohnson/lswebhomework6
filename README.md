@@ -4,10 +4,10 @@
 ---
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 
-	* Functions
-	* Parameters
-	* Arguments
-	* `if` statements
+	* Functions - A function is a way of simplifying a task so that you can perform that task more easily in the future by giving the task a nickname. When you need to perform that task again you can simply tell the computer the nickname and it can locate the task and perform it without needing you to input the task again.
+	* Parameters - Parameters are the variables of the function. If the purpose of the function is to find the area of any square, you will need the height and width. The height and width are the parameters.
+	* Arguments - Continuing with the function we are describing above, with parameters it now knows that we need the height and width to find the area of a square, but you cannot multiply the word height and the word width. You need the actual numbers of the height and widthto find the area. The arguments are those actual numbers, whatever they may be.
+	* `if` statements - An if statement is a conditional command. It is a way of saying that if something is true please proceed with this set of actions. An if statement is followed with an else statement that says if the if statement is not true please proceed with an alternate set of actions. An example would be if I asked "Are you going to the beach?". If you replied yes, making it a true statement (I am going to the beach) I will ask "Can I come too?". If you reply no, making it a false statement (I am not going to the beach) I will ask "Can you drive me to the beach."
 
 2. Install Node and NPM.  NPM comes packaged with Node. https://nodejs.org/en/download/
 
